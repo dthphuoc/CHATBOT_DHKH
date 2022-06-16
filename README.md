@@ -50,7 +50,7 @@ underthesea
 
 * **Sang le** - *Initial work*
 * **Đoan Thi Hong Phuoc** - *Initial work*
-* **Le Van Tuong Lan **  
+* **Le Van Tuong Lan**  
 * **Nguyen Van Trung** 
 
 ## License
