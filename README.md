@@ -48,8 +48,8 @@ underthesea
 
 ## Authors
 
-* **Sang le** - *Initial work*
-* **Đoan Thi Hong Phuoc** - *Initial work*
+* **Sang Le** 
+* **Đoan Thi Hong Phuoc**
 * **Le Van Tuong Lan**  
 * **Nguyen Van Trung** 
 
