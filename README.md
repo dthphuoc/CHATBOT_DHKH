@@ -41,7 +41,7 @@ underthesea
 - python
 
 ## Contributing
-- Mọi ý kiến phản hồi hay cài chưa được vui lòng liên hệ (`sangitk41d@gmail.com`)
+- Mọi ý kiến phản hồi hay cài chưa được vui lòng liên hệ (`dthphuocd@gmail.com`)
 
 ## Versioning
 - 1.0
@@ -49,8 +49,9 @@ underthesea
 ## Authors
 
 * **Sang le** - *Initial work*
-* **Gv. Đoan Thi Hong Phuoc** - *Initial work*
-
+* **Đoan Thi Hong Phuoc** - *Initial work*
+* **Le Van Tuong Lan **  
+* **Nguyen Van Trung** 
 
 ## License
 This project is licensed under the MIT License ở file readme.md
