@@ -25,7 +25,7 @@ underthesea
 
 ## Cách chạy project này
 - Bạn phải cài đặt `git` trước khi thực hiện các bước bên dưới:
-1. git clone  https://github.com/sangle321/CHATBOT-RASA-DHKH
+1. git clone  https://github.com/dthphuoc/CHATBOT_DHKH.git
 2. Di chuyển đến thư mục `cd CHATBOT-RASA-DHKH`
 3. `conda activate rasa`
 4. `pip install -r requirements.txt`
